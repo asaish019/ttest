@@ -1,0 +1,48 @@
+
+#banner_img{
+height:600;
+width:100;
+}
+.bannercontent{
+    color: white;
+    text-shadow: 1px 1px 2px black, 0 0 25px blue, 0 0 5px darkblue;
+    padding-bottom: 10px;
+}
+.first{
+text-shadow: 0 0 3px #FF0000; 
+box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+padding: 15px;
+}
+.row{
+   padding: 15px;
+}
+.jumbotron{
+    background-color: rgb(232, 238, 178);
+    color: crimson;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.btn-lg{
+    text-shadow: lightyellow;
+}
+/* .gall{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    padding: 10px;
+} */
+  .gallery {
+    margin: 20px;
+    width: 210px; 
+  }
+  
+  .gallery:hover {
+        border: 1px solid rgb(71, 71, 71);
+  }
+  
+  .gallery img {
+    width: 100%; 
+    height: auto;
+  }
+  
+  .desc {
+    padding: 15px;
+    text-align: center;
+  }
